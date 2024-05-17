@@ -1,0 +1,39 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.container{
+    width: 1300px;
+    margin: auto;
+}
+.left{
+    width: 30%;
+    margin-left: auto;
+}
+.left h1 {
+    color: #fff;
+    font-size: 30px;
+    padding: 10px 0;
+}
+.right{
+    width: 70%;
+    margin-right: auto;
+}
+.header-section{
+  display: flex;
+  background: #22c3a3;
+  padding:10px 0;
+}
+.right ul{
+    text-align: right;
+}
+.right ul li{
+    display: inline-block;
+}
+.right ul li a{
+    display: inline-block;
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 15px 20px;
+    color: #fff;
+}
