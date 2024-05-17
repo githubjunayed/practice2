@@ -9,3 +9,17 @@ max-width: 100%;
     
 }
 }
+@media (max-width:550px){
+    
+.input-type {
+    width: 250px;
+}
+.header {
+    display: flex;
+    background: #00577a;
+    padding: 20px 0;
+    width: 100%;
+}
+    
+   
+}
